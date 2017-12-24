@@ -13,7 +13,7 @@ title                    : "ДХ"
 title_separator          : "-"
 name                     : "Дмитрий Храпонов"
 description              : "Авторский проект Дмитрия Храпонова"
-url                      : "https://snupt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "snupt/snupt.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -61,7 +61,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "snupt"
 facebook:
   username               :
   app_id                 :
@@ -143,8 +143,13 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - Makefile
+  - clean.sh
+  - staticman.yml
+  - banner.js
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /minimal-mistakes
 keep_files:
   - .git
   - .svn
