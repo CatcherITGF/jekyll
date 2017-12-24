@@ -5,7 +5,7 @@ serve:
 	  --volume=$(PWD):/srv/jekyll \
 	  -p 4000:4000 \
 	  -it jekyll/builder:$(JEKYLL_VERSION) \
-	  jekyll server
+	  jekyll server --incremental
 
 clean:
 	docker run --rm \
