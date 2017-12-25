@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Дмитрий Храпонов"
   avatar           : "/assets/avatar/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Блог об информационных технологиях, путешествиях, видеоиграх, активном отдыхе и прочих развлечениях современности"
+  bio              : "Блог о технологиях, путешествиях, видеоиграх, фотографии и прочих вещах, которые мне интересны"
   location         : "Россия, Сочи"
   email            : "snupt@snupt.com"
   uri              :
