@@ -1,5 +1,8 @@
 ---
 title: "VS Code как среда для обучения"
+header:
+  teaser: "/assets/images/vs-code-for-edu/vs-code-for-edu_teaser.png"
+  og_image: "/assets/images/vs-code-for-edu/vs-code-for-edu_teaser.png"
 categories:
   - Programming
 tags:
