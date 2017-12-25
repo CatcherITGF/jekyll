@@ -549,7 +549,7 @@ ru: &DEFAULT_RU
   ext_link_label             : "Прямая ссылка"
   less_than                  : "менее"
   minute_read                : "мин на чтение"
-  share_on_label             : "Поделиться:"
+  share_on_label             : "Поделиться"
   meta_label                 :
   tags_label                 : "Метки:"
   categories_label           : "Разделы:"
