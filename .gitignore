@@ -1,7 +1,6 @@
 .DS_Store
 .sass-cache
 .jekyll-metadata
-_asset_bundler_cache
 _site
 Gemfile.lock
 clean.sh

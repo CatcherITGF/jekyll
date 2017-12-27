@@ -5,15 +5,7 @@ serve:
 	  --volume=$(PWD):/srv/jekyll \
 	  -p 4000:4000 \
 	  -it jekyll/jekyll:$(JEKYLL_VERSION) \
-		jekyll server --incremental
-
-serve-test:
-	docker run --rm \
-	  --volume=$(PWD):/srv \
-	  --volume=$(PWD)/test:/srv/jekyll \
-	  -p 4001:4001 \
-	  -it jekyll/jekyll:$(JEKYLL_VERSION) \
-	  jekyll server
+		jekyll server --incremental --drafts
 
 build:
 	docker run --rm \
