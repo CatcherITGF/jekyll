@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Дмитрий Храпонов"
   avatar           : "/assets/avatar/avatar.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Блог о технологиях, путешествиях, видеоиграх, фотографии и прочих вещах, которые мне интересны"
+  bio              : "Блог о технологиях, путешествиях, видеоиграх, фотографии и обо всём другом, что мне интересно"
   location         : "Россия, Сочи"
   email            : "snupt@snupt.com"
   uri              :
@@ -184,7 +184,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/ #/:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
