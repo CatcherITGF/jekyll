@@ -2,6 +2,10 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+$github-color: #ffffff !default;
+$twitter-color: #ffffff !default;
+$instagram-color: #ffffff !default;
+
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
