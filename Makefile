@@ -12,3 +12,8 @@ build:
 	--volume=$(PWD):/srv/jekyll \
 	-it jekyll/builder:$(JEKYLL_VERSION) \
 	jekyll build
+
+clean:
+	rm -r _site
+	rm -r .jekyll-metadata
+	rm -r .sass-cache
