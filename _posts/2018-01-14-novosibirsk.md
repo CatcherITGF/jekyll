@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/novosibirsk/novosibirsk_6.jpg
 toc: true
 categories:
-  - Traveling
+  - Travel
 tags:
   - photo
   - report
