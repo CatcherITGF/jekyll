@@ -4,7 +4,6 @@ excerpt:
 header:
   teaser: "/assets/images/hello-jekyll/hello-jekyll_teaser.png"
   og_image: "/assets/images/hello-jekyll/hello-jekyll_teaser.png"
-  overlay_color: #0,5
 categories:
   - Blog
 tags:
