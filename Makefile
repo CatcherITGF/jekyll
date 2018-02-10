@@ -1,8 +1,8 @@
-build:
-	jekyll build
-
 serve:
-	jekyll serve
+	bundle exec jekyll serve
 
 clean:
-	jekyll clean
+	bundle exec jekyll clean
+
+build:
+	bundle exec jekyll build
