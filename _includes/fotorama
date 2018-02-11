@@ -3,6 +3,6 @@
 {% assign slug = page.slug %}
 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true">
   {% for items in images %}
-    <a href="{{ assets }}{{ slug }}/{{ items }}" data-thumb="{{ assets }}{{ slug }}/{{ items }}" width="144" height="96"></a>
+    <img src="{{ assets }}{{ slug }}/{{ items }}" data-thumb="{{ assets }}{{ slug }}/{{ items }}" width="144" height="96">
   {% endfor %}
 </div>
