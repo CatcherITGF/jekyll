@@ -2,12 +2,12 @@
 title: "Привет, Jekyll"
 excerpt:
 header:
-  teaser: "/assets/images/hello-jekyll/hello-jekyll_teaser.png"
-  og_image: "/assets/images/hello-jekyll/hello-jekyll_teaser.png"
-categories:
-  - Blog
-tags:
-  - jekyll
+  teaser: "/assets/images/hello-jekyll/teaser.png"
+  og_image: "/assets/images/hello-jekyll/teaser.png"
+categories: Blog
+tags: jekyll
+img_01:
+  - 001.png
 ---
 Я решился на эксперимент с движком для блогов Jekyll. Ранее, если вы помните, у меня уже был Octopress, который как бы форк Jekyll, но после того как автор на него забил я просто не нашёл подходящей темы для Jekyll и решил полностью мигрировать на другой движок. Эгея мне нравилась и до сих нравится как платформа для блогов, но у всего есть недостатки и преимущества, которые меняются спустя время.
 
@@ -38,7 +38,7 @@ tags:
 
 Далее в планах частично перенести старые посты. Особенно важны репортажные материалы и отчёты из поездок. На это нужно время, которого пока нет. А новый контент буду писать уже сюда.
 
-![](/assets/images/hello-jekyll/hello-jekyll_1.png)
+{% include fotorama id="img_01" %}{: .full}
 
 ### Ссылки
 

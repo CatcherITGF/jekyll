@@ -2,77 +2,49 @@
 title: Новосибирск
 excerpt:
 header:
-  teaser: /assets/images/novosibirsk/novosibirsk_6.jpg
-  og_image: /assets/images/novosibirsk/novosibirsk_6.jpg
+  teaser: /assets/images/novosibirsk/006.jpg
+  og_image: /assets/images/novosibirsk/006.jpg
 toc: true
 categories:
   - Travel
 tags:
   - photo
   - report
-gallery_1:
-  - url: /assets/images/novosibirsk/novosibirsk_1.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_1.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_2.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_2.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_3.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_3.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_4.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_4.jpg
-gallery_2:
-  - url: /assets/images/novosibirsk/novosibirsk_5.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_5.jpg
-gallery_3:
-  - url: /assets/images/novosibirsk/novosibirsk_6.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_6.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_7.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_7.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_8.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_8.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_9.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_9.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_10.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_10.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_11.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_11.jpg
-gallery_4:
-  - url: /assets/images/novosibirsk/novosibirsk_12.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_12.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_13.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_13.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_14.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_14.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_15.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_15.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_16.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_16.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_17.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_17.jpg
-gallery_5:
-  - url: /assets/images/novosibirsk/novosibirsk_18.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_18.jpg
-gallery_6:
-  - url: /assets/images/novosibirsk/novosibirsk_19.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_19.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_20.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_20.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_21.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_21.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_22.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_22.jpg
-gallery_7:
-  - url: /assets/images/novosibirsk/novosibirsk_23.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_23.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_24.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_24.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_25.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_25.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_26.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_26.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_27.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_27.jpg
-  - url: /assets/images/novosibirsk/novosibirsk_28.jpg
-    image_path: /assets/images/novosibirsk/novosibirsk_28.jpg
+img_01:
+  - 001.jpg
+  - 002.jpg
+  - 003.jpg
+  - 004.jpg
+img_02:
+  - 005.jpg
+img_03:
+  - 006.jpg
+  - 007.jpg
+  - 008.jpg
+  - 009.jpg
+  - 010.jpg
+  - 011.jpg
+img_04:
+  - 012.jpg
+  - 013.jpg
+  - 014.jpg
+  - 015.jpg
+  - 016.jpg
+  - 017.jpg
+img_05:
+  - 018.jpg
+img_06:
+  - 019.jpg
+  - 020.jpg
+  - 021.jpg
+  - 022.jpg
+img_07:
+  - 023.jpg
+  - 024.jpg
+  - 025.jpg
+  - 026.jpg
+  - 027.jpg
+  - 028.jpg
 ---
 
 Состоялась моя вторая поездка в Сибирь, где я провёл все новогодние праздники. В Сочи снега на Новый год почти никогда не бывает, поэтому решили отправиться туда где он гарантировано будет. В 2013 года я уже бывал в Сибири, тогда это был город Красноярск, который мне очень понравился. Так что теперь будет с чем сравнивать.
@@ -95,37 +67,37 @@ gallery_7:
 
 Про новосибирский зоопарк я был наслышан ещё до поездки. Он по праву считается одним из крупнейших в России с площадью в 63 га. Построен в буквально  в лесополосе, поэтому на территории много высоких деревьев. Мне понравились кошачьи (считается одной из лучших в мире коллекций), которых там успешно разводят и скрещивают. Есть например странное животное под названием лигр, представляющее из себя смесь льва и тигра, но из конуры он к сожалению к нам так не вышел. Снежных барсов с детёнышами тоже не часто встретишь. Весьма грациозные животные.
 
-{% include gallery id="gallery_1" class="" %}
+{% include fotorama id="img_01" %}{: .full}
 
 ### Новосибирская государственная филармония
 
 Культурная программа у нас началась с джаза. Новосибирская государственная филармония является крупнейшей концертной организацией в стране. В месяц проводится около 60 концертов на различных площадках. Мы попали в современный концертный зал имени Арнольда Каца, который является основным на текущий момент. Огромное здание. Только площадь фойе — 1080 кв. м. Посадочных мест на 1080 зрителей и у нас был аншлаг. Шоу называлось «Джазовый калейдоскоп» от биг-бэнда Владимира Толкачева. Бесподобное выступление и шикарный звук в зале.
 
-{% include gallery id="gallery_2" class="" %}
+{% include fotorama id="img_02" %}{: .full}
 
 ### Театр оперы и балета
 
 Но главным культурным мероприятием конечно был новогодний балет «Щелкунчик». Новосибирский театр оперы и балета крупнейший в СССР и в России. Здание является один из главных символов города и располагается в самом центре. Интерьеры очень пафосные — в фойе преобладают бордовые тона. Амфитеатр на 2600 мест и снова без свободных мест. Я точно не являются экспертом в области балета, но шоу было великолепным. Больше всего понравились декорации и костюмы. Ну и музыка Чайковского конечно же на все времена. Это лучше Звёздных войн :)
 
-{% include gallery id="gallery_3" class="" %}
+{% include fotorama id="img_03" %}{: .full}
 
 ### Ледовый городок на набережной Оби
 
 Рядом с речным вокзалом есть довольное необычное место где зимой можно найти ледовый городок. Тут по большей части представлены различные скульптуры сделанные изо льда. Выглядит очень красиво. Есть также большое количество ледовых горок — от совсем детских до довольно высоких откуда я боялся съезжать. Также отсюда открывается вид на самый длинный крытый метромост в мире. Его длина составляет 2145 м. Я пытался сфоткать, но края даже не видно. На территории городка есть где погреться и выпить горячих напитков (без алкоголя).
 
-{% include gallery id="gallery_4" class="" %}
+{% include fotorama id="img_04" %}{: .full}
 
 ### Краеведческий музей
 
 Успели посетить один музей — зато какой. Не думал, что в России мне попадётся приличный музей, но этот как раз такой. Находится краеведческий музей в здании бывшего городского торгового корпуса, которое само по себе памятник архитектуры, постройка начала 20 века. В нём можно получить информацию о прошлом Сибири и Новосибирска в частности, начиная с предметов культуры и быта коренных жителей и заканчивая экспонатами из советского прошлого. В отдельном корпусе находится археологическая коллекция, где можно увидеть полный скелет мамонта.
 
-{% include gallery id="gallery_5" class="" %}
+{% include fotorama id="img_05" %}{: .full}
 
 ## Кафе и рестораны
 
 О том, что общепит в Сибири крутой я узнал ещё в Красноярске. Такого количество уникальных кафе и ресторанов встретишь не в каждой мировой столице. Если посмотреть в TripAdvisor, то можно найти массу уникальных мест с традиционной сибирской, кавказской, азитской и даже латиноамериканской кухней. На улице холодно, заведений много, всегда есть люди, сервис почти везде от среднего до очень хорошего. Все пытаются чем-то удивить и это не удивительно, заметна большая конкуренция, которая всегда только на руку посетителям. Соблазнов много — сибирские настойки (хреновуха, медовуха, ягодные и ореховые), брусничные пироги, блюда из северного оленя, пельмени из четырёх видов мяса, ягодные десерты, кофе на кедровых орехах и тд. Ух, всего и не вспомню. Одно заведение особенно запомнилось — ресторан «СибирьСибирь». Необычный интерьер, меню с упором на традиционную сибирскую кухню. Место чем-то похоже на Хозяин Тайги в Красноярске. Цены чуть выше средних, но ничего запредельного.
 
-{% include gallery id="gallery_6" class="" %}
+{% include fotorama id="img_06" %}{: .full}
 
 ## Транспорт
 
@@ -135,4 +107,4 @@ gallery_7:
 
 Новосибирск довольно густой город. Я не увидел чётких границ между центром и прилегающими районами. Всё довольно однотипное — смесь советских построек с современными зданиями. Архитектура в целом довольно скучная, в этом отношении всё как в любом типичном российском «миллионнике».
 
-{% include gallery id="gallery_7" class="" %}
+{% include fotorama id="img_07" %}{: .full}
