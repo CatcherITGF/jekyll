@@ -46,10 +46,10 @@ $base0f: #a3685a !default;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__content p {
+/* .page__content p {
   margin: 1em 0 1em;
 }
 
 div.highlighter-rouge, figure.highlight {
   margin-bottom: 2em;
-}
+} */
