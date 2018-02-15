@@ -1,10 +1,8 @@
 {% assign images = page[include.id] %}
 {% assign assets = site.data.assets.images %}
 {% assign slug = page.slug %}
-<p>
 <div class="fotorama" data-nav="thumbs" data-allowfullscreen="true">
   {% for items in images %}
     <img src="{{ site.url }}{{ assets }}{{ slug }}/{{ items }}" data-thumb="{{ site.url }}{{ assets }}{{ slug }}/{{ items }}" width="144" height="96">
   {% endfor %}
 </div>
-</p>
