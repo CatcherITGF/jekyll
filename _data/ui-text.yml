@@ -61,7 +61,7 @@ ru: &DEFAULT_RU
   breadcrumb_separator       : "/"
   menu_label                 : "Выпадающее меню"
   toc_label                  : "Содержание"
-  ext_link_label             : "Прямая ссылка"
+  ext_link_label             : "✻ Ссылка на источник"
   less_than                  : "менее"
   minute_read                : "мин на чтение"
   share_on_label             : "Поделиться"
