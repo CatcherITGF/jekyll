@@ -2,8 +2,8 @@
 title: Новосибирск
 excerpt:
 header:
-  teaser: /assets/images/novosibirsk/006.jpg
-  og_image: /assets/images/novosibirsk/006.jpg
+  teaser: /assets/images/novosibirsk/teaser.jpg
+  og_image: /assets/images/novosibirsk/teaser.jpg
 toc: true
 categories:
   - Travel
